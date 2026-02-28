@@ -2,7 +2,7 @@ package testqualcod.ex27;
 
 import java.util.Scanner;
 
-public class calc {
+public class Calc {
     public static void main(String args[]){
         Scanner s = new Scanner(System.in);
         System.out.println("Digite dois números");
